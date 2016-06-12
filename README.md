@@ -1,2 +1,4 @@
 # PT_Scores
-Calculate up to 500 scores at once using excel
+Calculate multiple PT scores at once using excel
+
+Ensure that Macros are enabled or it will not work properly.
